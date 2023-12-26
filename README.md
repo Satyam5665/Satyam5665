@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-I'm Satyam Kumar, a passionate Full Stack Developer.
+I'm Satyam Singh, a passionate Full Stack Developer.
 
 🚀 About Me:
 - 🔭 I’m currently working on building awesome web applications
 - 🌱 I’m currently learning more about Blockchain and Smart Contracts
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything related to C++, Python, Java, HTML, CSS, JavaScript, React, Node.js, Express, Tailwind CSS, Bootstrap, MongoDB, SQL, GraphQL and Solidity
+- 💬 Ask me about anything related to C++, Python, Java, HTML, CSS, JavaScript, React, Node.js, Express, Tailwind, Bootstrap, MongoDB, SQL, GraphQL and Solidity
 
 ### Tech Stack:
 - 💻 Languages: C++, Python, Java, JavaScript
@@ -22,7 +22,7 @@ I'm Satyam Kumar, a passionate Full Stack Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam5665&layout=compact&theme=radical)](https://github.com/Satyam5665)
 
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/satyam-singh-b4a32b215)
+
 
 Feel free to explore my repositories and reach out! 😊

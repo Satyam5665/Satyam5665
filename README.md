@@ -1,18 +1,18 @@
 # Hi there! 👋
 
-I'm Satyam Singh, a passionate Full Stack Developer.
-
+I'm Satyam Singh, a passionate Developer.
+Developing in AI and Web3.
 🚀 About Me:
-- 🔭 I’m currently working on building awesome web applications
-- 🌱 I’m currently learning more about Blockchain and Smart Contracts
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything related to C++, Python, Java, HTML, CSS, JavaScript, React, Node.js, Express, Tailwind, Bootstrap, MongoDB, SQL, GraphQL and Solidity
+- 🔭 I’m currently working on building awesome web applications.
+- 🌱 I’m currently learning more about Blockchain and Smart Contracts.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything related to C++, Python, Java, HTML, CSS, JavaScript, React, Node.js, Express, Tailwind, MongoDB, SQL, GraphQL and Solidity
 
 ### Tech Stack:
 - 💻 Languages: C++, Python, Java, JavaScript
-- 🌐 Frontend: React, JavaScript, HTML, CSS, Bootstrap, Tailwind
-- 🛢️ Backend: Node.js, Express
-- 📦 Database: MongoDB, SQL
+- 🌐 Frontend: React, HTML, CSS, Tailwind
+- 🛢️ Backend: Node.js, Express, Python FastApi
+- 📦 Database: MongoDB, SQL, Firebase
 - 🔧 Other: GraphQL, Solidity
 
 ### GitHub Stats:

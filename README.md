@@ -2,6 +2,7 @@
 
 I'm Satyam Singh, a passionate Developer.
 Developing in AI and Web3.
+
 🚀 About Me:
 - 🔭 I’m currently working on building awesome web applications.
 - 🌱 I’m currently learning more about Blockchain and Smart Contracts.

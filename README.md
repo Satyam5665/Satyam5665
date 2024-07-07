@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 I'm **Satyam Singh**, a passionate Developer specializing in AI and Web3.
-
-- 🏢 **Software Engineer Intern** at [Laika-AI](https://www.laika-ai.io/)
+- 🏢 **Software Engineer Intern** at [MindTickle](https://www.mindtickle.com/)
+- 🏢 **Ex . Software Engineer Intern** at [Laika-AI](https://www.laika-ai.io/)
 
 ---
 
